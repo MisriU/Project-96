@@ -1,0 +1,19 @@
+body{
+    background-image: url("green.gif");
+    background-size: cover;
+}
+
+#button2{
+    float:right;
+}
+
+.color_white{
+    color:aquamarine;
+    font-family: fantasy;
+    font-size: 40px;
+}
+
+h3{
+    color: aquamarine;
+    font-family: fantasy;
+}

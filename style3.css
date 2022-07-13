@@ -1,0 +1,9 @@
+body{
+    background-image: url("green.gif");
+    background-size: cover;
+}
+
+h1{
+    color: aquamarine;
+    font-family: fantasy;
+}

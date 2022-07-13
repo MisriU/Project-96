@@ -1,0 +1,18 @@
+h1, h3{
+    color:aquamarine;
+    font-family:fantasy;
+}
+
+body{
+    background-image: url("green.gif");
+    background-size: cover;
+}
+
+#login_button{
+    width: 175px;
+    height: 60px;
+}
+
+#user_name{
+    width:500px
+}
